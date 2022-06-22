@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 app.use("/products", productsController);
 
-const port = process.env.Port || 2000;
+const port = 2000;
 
 app.listen(port, async() => {
     try{

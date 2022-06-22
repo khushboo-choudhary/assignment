@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "title": "Wrath of God, The",
+        "rating": 3,
+        "release_date": "9/20/2021"
+    },
+    {
+        "id": 2,
+        "title": "11th Hour, The",
+        "rating": 5,
+        "release_date": "7/9/2021"
+    },
+    {
+        "id": 3,
+        "title": "Good Earth, The",
+        "rating": 5,
+        "release_date": "5/7/2022"
+    },
+    {
+        "id": 4,
+        "title": "Torrente, el brazo tonto de la ley",
+        "rating": 5,
+        "release_date": "7/11/2021"
+    },
+    {
+        "id": 5,
+        "title": "Pill, The",
+        "rating": 1,
+        "release_date": "12/22/2021"
+    },
+    {
+        "id": 6,
+        "title": "Telling Lies in America",
+        "rating": 3,
+        "release_date": "7/6/2021"
+    },
+    {
+        "id": 7,
+        "title": "Knight of Cups",
+        "rating": 4,
+        "release_date": "7/24/2021"
+    },
+    {
+        "id": 8,
+        "title": "Herbie Goes to Monte Carlo",
+        "rating": 2,
+        "release_date": "11/6/2021"
+    },
+    {
+        "id": 9,
+        "title": "Other Woman, The",
+        "rating": 4,
+        "release_date": "9/17/2021"
+    },
+    {
+        "id": 10,
+        "title": "Frenchmen 2",
+        "rating": 1,
+        "release_date": "8/15/2021"
+    },
+    {
+        "id": 11,
+        "title": "Nick Carter, Master Detective",
+        "rating": 1,
+        "release_date": "10/8/2021"
+    },
+    {
+        "id": 12,
+        "title": "Billy's Hollywood Screen Kiss",
+        "rating": 5,
+        "release_date": "9/30/2021"
+    },
+    {
+        "id": 13,
+        "title": "Emerald Forest, The",
+        "rating": 5,
+        "release_date": "10/25/2021"
+    },
+    {
+        "id": 14,
+        "title": "Uninvited, The",
+        "rating": 4,
+        "release_date": "7/6/2021"
+    },
+    {
+        "id": 15,
+        "title": "Winter Soldier",
+        "rating": 2,
+        "release_date": "8/12/2021"
+    },
+    {
+        "id": 16,
+        "title": "Wish Me Away",
+        "rating": 4,
+        "release_date": "9/4/2021"
+    },
+    {
+        "id": 17,
+        "title": "Land and Freedom (Tierra y libertad)",
+        "rating": 1,
+        "release_date": "9/29/2021"
+    },
+    {
+        "id": 18,
+        "title": "Zero",
+        "rating": 2,
+        "release_date": "3/30/2022"
+    },
+    {
+        "id": 19,
+        "title": "In Vanda's Room (No Quarto da Vanda)",
+        "rating": 4,
+        "release_date": "8/3/2021"
+    },
+    {
+        "id": 20,
+        "title": "Capitalism: A Love Story",
+        "rating": 5,
+        "release_date": "11/28/2021"
+    },
+    {
+        "id": 21,
+        "title": "Overnighters, The",
+        "rating": 5,
+        "release_date": "10/22/2021"
+    },
+    {
+        "id": 22,
+        "title": "Carrie",
+        "rating": 2,
+        "release_date": "12/28/2021"
+    },
+    {
+        "id": 23,
+        "title": "Luna Papa",
+        "rating": 1,
+        "release_date": "7/12/2021"
+    },
+    {
+        "id": 24,
+        "title": "Killing of John Lennon, The",
+        "rating": 5,
+        "release_date": "6/28/2021"
+    },
+    {
+        "id": 25,
+        "title": "Back in the Saddle (Back in the Saddle Again)",
+        "rating": 3,
+        "release_date": "4/7/2022"
+    }
+   
+]
